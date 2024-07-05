@@ -1,2 +1,2 @@
-# example.github.io
+# Sbomgen Pages
 example page
